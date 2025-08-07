@@ -3,4 +3,7 @@
 .terraform.lock.hcl
 .\Class1\.terraform\
 .\Class1\.terraform.lock.hcl
+.\Class1\terraform.tfstate
+.\Class1\terraform.tfstate.backup
 terraform.tfstate
+terraform.tfstate.backup
